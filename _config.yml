@@ -1,12 +1,12 @@
 # Site Settings
-title: Start Jekyll
-email: taniarascia@gmail.com
+title: A Humble Developers Journal
+email: david.mhernandez97@outlook.com
 description: >
-  A guide to getting started with Jekyll.
-baseurl: "/startjekyll"
-url: "http://taniarascia.github.io"
-twitter_username: taniarascia
-github_username:  taniarascia
+  A journal of a begnner hobbyist developer.
+baseurl: "/personal-blog"
+url: "http://mexdave1997.github.io"
+twitter_username: MExcelms
+github_username:  MEXdave1997
 # Build Settings
 sass:
   sass_dir: _sass
