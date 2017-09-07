@@ -4,7 +4,7 @@ title: About
 permalink: /about/
 ---
 
-# About the Author
+## About the Author
 
 Hi, My name is MEXdave. I am the builder of this site. I created it with the goal of sharing my experience learning to code with the world. 
 
